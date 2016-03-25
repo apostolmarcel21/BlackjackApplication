@@ -12,15 +12,19 @@ If the player reaches 21, he will be the winner. Otherwise, the computer plays u
 Here are a few screenshots from the application usage:
 
 Player starts the game and the cards are displayed.
-  ![image1](/images/image1.png)
+
+  ![image1](/Images/image1.png)
 
 The player decides if he wants more cards or when to stop.
-  ![image2](/images/image2.png)
+
+  ![image2](/Images/image2.png)
   
 After the player stops, the computer starts to play.
-  ![image3](/images/image3.png)  
+
+  ![image3](/Images/image3.png)  
   
-If both players have the same score, the game results in a tie.  
-  ![image4](/images/image4.png)  
+If both players have the same score, the game results in a tie.
+
+  ![image4](/Images/image4.png)  
   
   
